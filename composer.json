@@ -1,5 +1,5 @@
 {
-    "name": "tackk/cartographer",
+    "name": "4morgen-gmbh/cartographer",
     "description": "A PHP sitemap generation tool.",
     "keywords": ["sitemap", "generator"],
     "license": "MIT",
